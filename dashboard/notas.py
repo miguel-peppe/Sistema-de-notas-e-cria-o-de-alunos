@@ -53,7 +53,6 @@ def mainAsk(listS: list):
         print("What do you want to do?")
         print("[L]ist of students")
         print("[C]reate student")
-        print("[R]etained students count")
         print("[E]xit")
         print("")
         choice = input("Your choice: ").strip().lower()
